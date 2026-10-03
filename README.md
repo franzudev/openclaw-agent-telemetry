@@ -97,7 +97,6 @@ exporter/exporter.mjs        # the exporter, config via env only
 exporter/.env.example        # all knobs, no secrets
 dashboard/openclaw-audit.json# Grafana dashboard (__inputs, no hard-coded datasource)
 demo/                        # optional prometheus+grafana compose for a local trial
-docs/                        # screenshot
 ```
 
 ## Security posture
